@@ -40,7 +40,7 @@ Number of categories: **2 (Authentic, Forged)**
 - **Decoder Network**: Processes feature maps with upsampling, convolution, and batch normalization to produce the forgery mask.
 
 ### **Experimental Results**
-- ResNet50 and DenseNet121 demonstrated robust performance in detecting forgeries, with ResNet50 achieving a higher F1 score, while DenseNet121 showed better parameter efficiency.
+- ResNet50 and DenseNet121 demonstrated robust performance in detecting forgeries, with DenseNet121 achieving a higher F1 score, while ResNet50 showed better parameter efficiency.
 
 ---
 
